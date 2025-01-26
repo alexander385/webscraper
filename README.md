@@ -76,6 +76,4 @@ Some possible improvements for future versions include:
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contact
-For any questions or collaboration opportunities, please reach out via email: `your.email@example.com`.
 
